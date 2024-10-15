@@ -1,20 +1,3 @@
-#Projeto de Regressão Logística: Tempo ideal para jogar Golf.
-
-#Descrição
-
-Este projeto utiliza a regressão logística para prever se é possível jogar golf com base nos dado obtidos. O objetivo é entender como diferentes características influenciam a decisão do alvo.
-
-Tecnologias Utilizadas
-
-Python: Linguagem de programação principal.
-
-Pandas: Para manipulação e análise de dados.
-
-Scikit-learn: Para modelagem e avaliação de algoritmos de aprendizado de máquina.
-
-Conjunto de Dados:
-Os dados utilizados neste projeto foram obtidos de uma planilha em excel fornecida pela Escola DNC. O conjunto de dados contém:Clima; Temperatura; Umidade; Ventos; Jogar.
-
 
 # #Projeto de Regressão Logística: Análise de Modelagem de Empréstimos Pessoais
 
@@ -70,7 +53,9 @@ Predição utilizando o conjunto de teste.
 Matriz de Confusão:
 
 Visualização da matriz de confusão:
-<!-- Adicione o link ou imagem correta da matriz de confusão -->
+
+![Matriz de Confusão](https://github.com/GustasAndre/RegressaoLogistica/blob/c84592db073dc12eb61f0eb012337a8a6017f280/Matriz%20de%20confus%C3%A3o.png)
+
 Métricas de Avaliação:
 
 Acurácia:
