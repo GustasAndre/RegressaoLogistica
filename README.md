@@ -107,7 +107,7 @@ Curva ROC:
 
 Visualização da curva ROC:
 
-![Curva ROC](images/curva_roc.png)
+![Curva ROC](Curva Roc.png)
 
 Conclusão
 
