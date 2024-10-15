@@ -74,20 +74,35 @@ Visualização da matriz de confusão:
 Métricas de Avaliação:
 
 Acurácia:
+
 Acurácia Teste: accuracy_score(y_test, y_pred)
+
 Acurácia Treino: accuracy_score(y_train, model.predict(X_train))
+
 Acurácia Balanceada:
+
 Acurácia Balanceada Teste: balanced_accuracy_score(y_test, y_pred)
+
 Acurácia Balanceada Treino: balanced_accuracy_score(y_train, model.predict(X_train))
+
 Precisão:
+
 Precisão Teste: precision_score(y_test, y_pred)
+
 Precisão Treino: precision_score(y_train, model.predict(X_train))
+
 Recall:
+
 Recall Teste: recall_score(y_test, y_pred)
+
 Recall Treino: recall_score(y_train, model.predict(X_train))
+
 F1 Score:
+
 F1 Score Teste: f1_score(y_test, y_pred)
+
 F1 Score Treino: f1_score(y_train, model.predict(X_train))
+
 Curva ROC:
 
 Visualização da curva ROC:
