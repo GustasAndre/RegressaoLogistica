@@ -106,7 +106,9 @@ F1 Score Treino: f1_score(y_train, model.predict(X_train))
 Curva ROC:
 
 Visualização da curva ROC:
-(https://github.com/GustasAndre/RegressaoLogistica/blob/main/Curva%20Roc.png)
+
+![Curva ROC](images/curva_roc.png)
+
 Conclusão
 
 Este código fornece uma análise detalhada sobre a modelagem de empréstimos pessoais, incluindo a avaliação do desempenho do modelo através de métricas como precisão, recall e F1 Score. As visualizações ajudam a entender melhor a eficácia do modelo.
