@@ -107,7 +107,7 @@ Curva ROC:
 
 Visualização da curva ROC:
 
-![Curva ROC](Curva Roc.png)
+([Curva Roc.png](https://github.com/GustasAndre/RegressaoLogistica/blob/c84592db073dc12eb61f0eb012337a8a6017f280/Curva%20Roc.png))
 
 Conclusão
 
